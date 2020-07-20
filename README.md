@@ -6,6 +6,7 @@ Followed the tutorial: https://reactjs.org/tutorial/tutorial.html
 
 ## Features
 * Complete tic tac toe game in a simple 9x9 square grid
+* Indicates when a player has won the game as well as the current turn
 * Includes time travel with a list of moves beside the game board
   * Move list builds as moves are made in the game
   * Clicking on a move will alter the game board back to that point in the game
