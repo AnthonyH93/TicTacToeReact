@@ -1,4 +1,4 @@
-# TicTacToe_React
+# TicTacToeReact
 
 First React.js application built for learning purposes. Learned the fundamentals of React along with common techniques and best practices.
 
